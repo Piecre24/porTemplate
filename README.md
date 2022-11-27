@@ -1,6 +1,16 @@
 # ptemplate
 [![Dependencies](https://david-dm.org/nethruster/ptemplate.svg)](https://david-dm.org/nethruster/ptemplate) [![DevDependencies](https://david-dm.org/nethruster/ptemplate/dev-status.svg)](https://david-dm.org/nethruster/ptemplate?type=dev)
 
+Todo List
+- insert profile 
+- update colours
+- insert right hyperlinks
+- learn how to code functionality of application
+- run application through cloud heroku
+- have fun
+
+
+
 A personal website template that's not a pain in the ass to setup and use.
 
 [Demo](https://ptemplate.nethruster.com)
